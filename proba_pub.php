@@ -1,0 +1,3 @@
+<?php
+ecgo 'Public proba';
+?>
